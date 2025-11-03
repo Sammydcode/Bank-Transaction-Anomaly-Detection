@@ -32,7 +32,7 @@ The project uses a comprehensive bank transactions dataset (`bank_transactions_d
 ## Technical Implementation
 
 ### Technologies Used
-- **Python 3.x**
+- **Python 3.13.4**
 - **Pandas**: Data manipulation and analysis
 - **Matplotlib**: Data visualization
 - **Datetime**: Date/time handling
