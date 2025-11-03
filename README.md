@@ -78,29 +78,31 @@ The project uses a comprehensive bank transactions dataset (`bank_transactions_d
 - Isolation Forest
 - Local Outlier Factor (LOF)
 - One-Class SVM
-- Autoencoders
 
 ### Evaluation Metrics:
-- Precision
-- Recall
-- F1-Score
-- ROC-AUC
-- Confusion Matrix Analysis
+- Silhouette Score
+- Anomaly Ratio
+- Avg Decision Score
+
 
 ## Project Structure
 
 bank-transaction-anomaly-detection/
+
 ├── bank_transaction_anormaly_detction.ipynb
+
 ├── bank_transactions_data_2.csv
+
 ├── README.md
+
 └── requirements.txt
 
 
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.13 +
 - Jupyter Notebook
 - Required Python packages (see requirements.txt)
 
